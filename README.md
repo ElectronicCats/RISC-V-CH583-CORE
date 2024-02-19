@@ -2,6 +2,7 @@
 
 ### Overview
 
+Repository containing a mirror of the CH583 core for easy maintaining
 The CH583 is a 32-bit RISC microcontroller integrated with BLE wireless communication. The CH583 provides abundant peripheral sources, such as 2Mbps BLE communication module, 2 full-speed USB host and device controller and transceiver, 2 SPIs, 4 UARTs, ADC, touch-key detection module and RTC, etc.
 
  
